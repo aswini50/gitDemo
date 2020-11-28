@@ -1,0 +1,6 @@
+2020-09-13 21:05:22,619 WARN Log4JDemo [main] This is a warning message
+2020-09-13 21:05:22,627 INFO Log4JDemo [main] This is an info message
+2020-09-13 21:05:22,627 ERROR Log4JDemo [main] This is an error message: Marks must be more than 50 
+2020-09-13 21:05:41,515 WARN Log4JDemo [main] This is a warning message
+2020-09-13 21:05:41,522 INFO Log4JDemo [main] This is an info message
+2020-09-13 21:05:41,522 ERROR Log4JDemo [main] This is an error message: Marks must be more than 50 
